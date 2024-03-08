@@ -986,11 +986,13 @@ body {
 }
 
 .huge-text {
-    font-size: 48px;  /* Adjust the font size as needed */
+    font-size: 4rem;  /* Adjust the font size as needed */
     text-align: center;
     margin-top: 20px;  /* Adjust the margin as needed */
     color: #FFD700;  /* Set the text color */
     /* Add any other styling properties you need */
+    z-index: 9999;
+    position: absolute;
 }
 
 
