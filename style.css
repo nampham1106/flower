@@ -993,7 +993,7 @@ body {
     /* Add any other styling properties you need */
     z-index: 9999;
     position: absolute;
-    font-family: 'First Choice Font', 'Second Choice Font', sans-serif;
+    font-family: 'First Choice Font', 'Second Choice Font', Montserrat;
 }
 
 
